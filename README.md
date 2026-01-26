@@ -80,5 +80,10 @@ A complete PDF explanation of the project is available in the `/documents` folde
 
 ## 📬 Connect
 
-If you work with BI tools or analytics, feel free to connect with me on LinkedIn!
+If you work with BI tools or analytics, feel free to connect with me on LinkedIn!## 🔗 Connect
+
+If you work with BI tools or analytics, feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-joshi-b4a0a1236/)
+
 
