@@ -80,7 +80,6 @@ A complete PDF explanation of the project is available in the `/documents` folde
 
 ## 📬 Connect
 
-If you work with BI tools or analytics, feel free to connect with me on LinkedIn!## 🔗 Connect
 
 If you work with BI tools or analytics, feel free to connect with me on LinkedIn:
 
