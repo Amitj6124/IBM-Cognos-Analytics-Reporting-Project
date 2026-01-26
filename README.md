@@ -56,9 +56,11 @@ As part of my learning in **Business Analytics**, I explored how enterprise BI t
 
 ---
 
-## 📄 Documentation
+### 📄 Documentation
 
-A complete PDF explanation of the project is available in the `/documents` folder.
+All screenshots and task explanations are provided inside the repository folders.  
+This project covers list reports, crosstab reports, filtering, and complex multi-level reporting in IBM Cognos Analytics.
+
 
 ---
 
