@@ -4,6 +4,8 @@ Hands-on reporting project using IBM Cognos Analytics: list reports, crosstab re
 
 This project contains a complete set of reports created in **IBM Cognos Analytics Cloud** using the SuperStore Orders dataset.  
 It includes list reports, crosstab reports, conditional formatting, summary calculations, and multiple levels of filtering.
+Dataset Source: SuperStore Orders dataset from Kaggle (Public dataset for educational purposes)
+
 
 ---
 
@@ -45,12 +47,12 @@ As part of my learning in **Business Analytics**, I explored how enterprise BI t
 
 ## 📸 Screenshots
 
-Screenshots for each task are in the `/screenshots` folder:
+## 📸 Screenshots
 
-- List Reports  
-- Crosstab Reports  
-- Filters (Before/After)  
-- Complex Crosstab  
+- [List Reports](./screenshots/01_List_Reports)
+- [Crosstab Reports](./screenshots/02_Crosstab_Reports)
+- [Filters](./screenshots/03_Filters)
+- [Complex Crosstab](./screenshots/04_Complex_Crosstab)
 
 ---
 
