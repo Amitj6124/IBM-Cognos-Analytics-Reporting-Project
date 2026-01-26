@@ -52,7 +52,7 @@ As part of my learning in **Business Analytics**, I explored how enterprise BI t
 - [List Reports](./screenshots/01_List_Reports)
 - [Crosstab Reports](./screenshots/02_Crosstab_Reports)
 - [Filters](./screenshots/03_Filters)
-- [Complex Crosstab](./screenshots/04_Complex_Crosstab)
+- [Complex Crosstab](./screenshots/04_Complex_crosstab)
 
 ---
 
